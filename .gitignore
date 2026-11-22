@@ -46,4 +46,9 @@ tstt.py
 providerstest.py
 prv.py
 # Emacs crap
-*~
+*~.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
